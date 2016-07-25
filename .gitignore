@@ -1,0 +1,37 @@
+# Composer, Node and Homestead
+/node_modules/
+/public/
+!/public/index.php
+/Homestead.yaml
+/Homestead.json
+
+# Laravel 5 & Lumen specific
+/storage/debugbar/
+/storage/nfs/
+/storage/data/
+/.env.*.php
+/.env.php
+/.env
+.phpintel/
+/cert.pem
+/key.pem
+
+# Mac and Window
+.idea/
+.vscode/
+.DS_Store
+.phpcomplete_extended/
+Thumbs.db
+/.phpstorm.meta.php
+
+
+# others
+gulpfile.js
+/resources/portal/*/assets/js/riot/compiled/xvideo-rcp.js
+/resources/portal/*/assets/js/va.js
+/.project
+/resources/admin/assets/imgs/icheck-icon-blue.png
+/resources/admin/admin/imgs/icheck-icon-blue@2x.png
+/package.json
+/resources/portal/assets/js/templates-fn-handlebars.js
+/resources/portal/assets/js/va.js
